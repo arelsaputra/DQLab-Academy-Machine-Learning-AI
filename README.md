@@ -14,3 +14,7 @@ In Session 3, we will delve into the fundamentals of descriptive statistics and 
 
 ## **Session 4: Introduction to Supervised Learning, Regression Algorithms, Linear Regression, Modelling, Model Evaluation**
 In Session 4, we will explore the fundamentals of supervised learning, focusing on regression techniques. This session will introduce key regression algorithms, with an emphasis on linear regression as a foundational method. We will also cover the process of building predictive models, including data preparation, training, and evaluation. Additionally, we will discuss model evaluation techniques to assess the performance and reliability of regression models in real-world applications.
+
+## **Session 5: Bias-Variance Trade-Off, Regularization in Linear Regression, Ridge and Lasso Modeling, Model Evaluation, Gradient Descent**
+In Session 5, we will discuss the concept of Bias-Variance Trade-Off, which is an important principle in balancing underfitting and overfitting in machine learning models. Next, we will learn regularization in linear regression, including Ridge and Lasso techniques, which serve to improve model generalization by controlling its complexity.
+In addition, this session will also cover model evaluation to effectively assess regression performance. Finally, we will get to know Gradient Descent, an optimization algorithm used to find the best parameters in a regression model.
